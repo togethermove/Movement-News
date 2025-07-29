@@ -1,31 +1,34 @@
-# Movement-News
-# Movement-News 📰
+Movement-News 📰
 
-**Movement-News** သည် Movement Network ၏တရားဝင် Blog-style news project ဖြစ်သည်။  
-ရည်ရွယ်ချက်မှာတော့ community, DAO, contributor, governance အကြောင်းအရာများကို သတင်း၊ proposal summary နဲ့ weekly highlight များအဖြစ် တင်ပြဖို့ဖြစ်သည်။
+Movement-News is the official blog-style news platform of the Movement Network.
+Its purpose is to share updates, DAO proposals, contributor stories, governance decisions, and weekly highlights with the community in a clear and accessible format.
 
----
+🔗 Live Preview
 
-## 🔗 Live Preview
+➡️ Visit the Live Site on Vercel
 
-➡️ [Visit the Live Site on Vercel](https://movement-news.vercel.app)
+🛠 Tech Stack
+	•	HTML / CSS / JavaScript
+	•	Markdown (for blog content)
+	•	GitHub + Vercel (CI/CD deployment)
+	•	Responsive Web Design (Mobile-first)
 
----
+🚀 Project Setup & Usage
 
-## 🛠 Tech Stack
+To run the project locally:
 
-- HTML / CSS / JavaScript
-- Markdown (for blog content)
-- GitHub + Vercel (CI/CD deployment)
-- Responsive Web Design (Mobile-first)
+# 1. Clone the repository
+git clone https://github.com/togethermove/movement-news.git
 
----
+# 2. Navigate into the project directory
+cd movement-news
 
-## 🚀 Project Setup & Usage
-
-Clone the project locally and open in browser:
-
-```bash
-git clone https://github.com/togethermove/Movement-News.git
-cd Movement-News
+# 3. Open the index file in your browser (if static)
 open index.html
+
+If you’re using a local development server (e.g., with Node.js or Live Server):
+
+# Example with Live Server (VS Code extension)
+# Right-click `index.html` and select "Open with Live Server"
+
+For Markdown blog posts, simply edit or add .md files in the posts/ or content/ folder (depending on your structure)
