@@ -1,34 +1,38 @@
-Movement-News 📰
+# 📢 Movement Network News
 
-Movement-News is the official blog-style news platform of the Movement Network.
-Its purpose is to share updates, DAO proposals, contributor stories, governance decisions, and weekly highlights with the community in a clear and accessible format.
+Welcome to the official **Movement Network News Repo** 📰  
+ဒီနေရာမှာ Movement Network ရဲ့ **weekly updates**, **partnerships**, **community programs**, နောက်ဆုံးထွက် **announcements** တွေကို စုဆောင်းဖော်ပြသွားပါမယ်။  
 
-🔗 Live Preview
+---
 
-➡️ Visit the Live Site on Vercel
+## 🚀 အသုံးချနိုင်မယ့် နည်းလမ်းတွေ
+### 1. GitHub Pages
+- Repo ကို **GitHub Pages** enable လုပ်လိုက်ရင် →  
+  👉 `https://movement-news.togethermove.github.io` မှာ News website အနေနဲ့ အသုံးချနိုင်မယ်  
+- နောက်ပြီး **subdomain** → `https://news.movement.foundation` နဲ့ map လုပ်နိုင်မယ်  
 
-🛠 Tech Stack
-	•	HTML / CSS / JavaScript
-	•	Markdown (for blog content)
-	•	GitHub + Vercel (CI/CD deployment)
-	•	Responsive Web Design (Mobile-first)
+### 2. Community Updates
+- Weekly update တစ်ခုချင်းစီကို **Markdown file** အနေနဲ့ upload ပြီး  
+  👉 Discord, Twitter (X), Telegram မှာ share လို့ရမယ်  
 
-🚀 Project Setup & Usage
+### 3. Transparency
+- **Treasury reports**, **Governance proposals**, **Community activities** တွေကို  
+  👉 Public archive အနေနဲ့ သိမ်းထားနိုင်မယ်  
 
-To run the project locally:
+---
 
-# 1. Clone the repository
-git clone https://github.com/togethermove/movement-news.git
+## 📌 Latest Updates
+- **Week 1 (Aug 2025)** → Community AMA Recap, Treasury Multisig Update  
+- **Week 2 (Aug 2025)** → Partnership with XYZ, Claim Dashboard Beta  
 
-# 2. Navigate into the project directory
-cd movement-news
+---
 
-# 3. Open the index file in your browser (if static)
-open index.html
+## 📂 Categories
+- [Weekly News](/news)  
+- [Partnerships](/partnerships)  
+- [Community Programs](/community)  
+- [Events](/events)  
 
-If you’re using a local development server (e.g., with Node.js or Live Server):
+---
 
-# Example with Live Server (VS Code extension)
-# Right-click `index.html` and select "Open with Live Server"
-
-For Markdown blog posts, simply edit or add .md files in the posts/ or content/ folder (depending on your structure)
+✍️ Maintained by [Movement Network Foundation](https://movementnetwork.xyz)  
